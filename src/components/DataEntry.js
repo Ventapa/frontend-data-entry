@@ -37,7 +37,7 @@ function DataEntry() {
 
   return (
     <>
-      <p>Author: Ahmed Abdulghanay</p>
+      <p>Author: Ahmed Abdulghany</p>
       <div
         style={{
           display: "flex",
